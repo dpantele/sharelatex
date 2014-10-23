@@ -11,7 +11,7 @@ async = require "async"
 SERVICES = [{
 	name: "web"
 	repo: "https://github.com/dpantele/web-sharelatex.git"
-	version: "v0.1.0"
+	version: "v0.1.0-stevens"
 }, {
 	name: "document-updater"
 	repo: "https://github.com/sharelatex/document-updater-sharelatex.git"
